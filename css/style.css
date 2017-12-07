@@ -1,0 +1,20 @@
+.header_text{
+    font-family: 'Londrina Outline',sans-serif;
+    font-size:60px;
+    background-color: #8AB8C0;
+}
+
+.all_card {
+    background-color: #E18B94;
+    padding: 20px;
+}
+
+#result {
+    font-family: 'Londrina Outline',sans-serif;
+    font-size: 45px;
+}
+
+.choosing {
+    font-family: 'Londrina Outline',sans-serif;
+    font-size: 25px;
+}
