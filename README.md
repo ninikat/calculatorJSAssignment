@@ -14,5 +14,5 @@ Create a calculator which allows the user to enter two numbers.
 
 * Calculator must clear the inputs when the user clicks "=" button. 
 
-
+see it live:
 ## abandoned-cacl1.surge.sh
